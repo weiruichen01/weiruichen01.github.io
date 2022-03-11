@@ -13,3 +13,6 @@
 * Footer: _includes/footer.html
 * Static files (like PDFs): /files/
 * Profile image (can set in _config.yml): images/profile.png
+
+### tips:
+if wanting to put comments in markdown file, put them as [//]: # "<comments>" 
